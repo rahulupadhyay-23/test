@@ -18,6 +18,7 @@ const Home = () => {
 
   return (
     <View style={styles.container}>
+
       <TextInput
        placeholder='Enter number of Lots'
        style={styles.inputStyle}
